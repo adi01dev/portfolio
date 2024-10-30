@@ -19,7 +19,7 @@ body {
 /* Header with Background Animation */
 .header {
     position: relative;
-    height: 40vh;
+    height: 35vh;
     background: linear-gradient(135deg, #1f4037, #99f2c8);
     display: flex;
     align-items: center;
